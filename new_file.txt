@@ -1,4 +1,2 @@
-git status
-git branch -r
-git
-asd
+ssdsa
+
